@@ -2,7 +2,7 @@
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/2-github-cice/project-repo)
 
 # project-repo
-A repository for the project
+A repository for the front-end side of the project
 
 # Link to the repository
 https://github.com/cice-classroom/2-github-pekoms
