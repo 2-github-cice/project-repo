@@ -4,7 +4,6 @@
 # project-repo-front
 A repository for the front-end side of the project
 
-# Link to the repository
-https://github.com/cice-classroom/2-github-pekoms
+
  
 
